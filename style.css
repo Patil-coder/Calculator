@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Ballet:opsz@16..72&family=Boogaloo&family=Dancing+Script&family=Roboto:ital,wght@0,400;1,100&display=swap');
+
+html,body{
+    font-family: "Roboto",sans-serif;
+}
+.button{
+    width: 53px;
+    padding: 21px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 7px;
+    cursor: pointer;
+    background: rgb(217, 228, 221);
+    align-items: center;
+}
+
+.row{
+    margin: 6px 0;
+    align-items: center;
+}
+.input{
+    font-size: 20px;
+    padding: 5px 0px;
+    border: 2px solid black;
+    border-radius: 4px;
+}
